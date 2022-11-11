@@ -1457,8 +1457,8 @@ forestSpecies.put("Amazon", 40000);
 int forestCount = forestSpecies.size();
 ```
 
-- [x] 3
-- [ ] 4
+- [ ] 3
+- [x] 4
 - [ ] 2
 - [ ] When calling the put method, Java will throw an exception
 
